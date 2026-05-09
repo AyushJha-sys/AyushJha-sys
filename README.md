@@ -97,13 +97,3 @@ Complete marketplace platform. Freelancers create gigs, manage profiles, receive
  
 Looking to ship code, solve real problems, and grow with experienced teams.
  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushJha-sys&layout=compact&theme=tokyonight)
-
----
-
-## 🌍 Connect With Me
-
-- LinkedIn
-- Portfolio
-- Email
